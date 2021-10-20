@@ -29,4 +29,4 @@ Here are some ideas to get you started:
  -->
 
 [![abritpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abritpal&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abritpal&show_icons=true&locale=en" alt="abritpal" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abritpal&show_icons=true&locale=en" alt="abritpal" /></p> -->
