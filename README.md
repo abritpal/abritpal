@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **abritpal/abritpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Abrit</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <h1 align="center">Hi 👋, I'm Abrit</h1> -->
+<!-- <h3 align="center">Connect with me:</h3> -->
+<p align="center">
 <a href="https://twitter.com/abritpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abritpal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abrit-pal-singh-26a156136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrit-pal-singh-26a156136" height="30" width="40" /></a>
 <a href="https://instagram.com/abritpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abritpal" height="30" width="40" /></a>
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
  -->
 
-[![abritpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abritpal&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![abritpal's GitHub stats](https://github-readme-stats.vercel.app/api?username=abritpal&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abritpal&show_icons=true&locale=en" alt="abritpal" /></p> -->
